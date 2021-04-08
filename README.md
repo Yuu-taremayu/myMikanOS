@@ -3,6 +3,7 @@
 
 # Environment
  - Arch linux 5.11.8
+	 - って思ったけど環境構築がしんどいのでVirtualBox6.1.18+Ubuntu20.04でやる
 
 ## Read chapters
 0. 4/1(同日読了) Thu
